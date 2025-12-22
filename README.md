@@ -1,3 +1,3 @@
-This repository contain my LLM work. More in my LinkedIn....
+S.H.E.R.L.O.C.K.
 
-**  See youu there!**
+Structured Hierarchical Efficient Resolution-aware Learning with Optimized Class Knowledge
