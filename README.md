@@ -229,18 +229,6 @@ report = clinical_report(
 )
 ```
 
-## 📝 Citation
-
-If you use SHERLOCK in your research, please cite our paper:
-
-```bibtex
-@article{sherlock2024,
-  title={SHERLOCK: Structured Hierarchical Efficient Resolution-aware Learning with Optimized Class Knowledge},
-  author={Anonymous Authors},
-  journal={Conference on Health, Inference, and Learning (CHIL)},
-  year={2024}
-}
-```
 
 ## 🤝 Contributing
 
