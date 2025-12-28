@@ -94,32 +94,6 @@ model = DHL(backbone='efficientnet-b3', lambda_param=0.5)
 model.train(train_loader, val_loader, epochs=20)
 ```
 
-## 📁 Repository Structure
-
-```
-SHERLOCK/
-├── models/
-│   ├── baseline.py      # Multi-model baseline implementations
-│   ├── raat.py          # Resolution-Aware Attention Transfer
-│   └── dhl.py           # Dermoscopic Hierarchical Learning
-├── scripts/
-│   ├── preprocess.py    # Data preprocessing and augmentation
-│   ├── train.py         # Training scripts
-│   └── evaluate.py      # Evaluation and metrics
-├── configs/
-│   ├── baseline.yaml    # Baseline model configurations
-│   ├── raat.yaml        # RAAT training configurations
-│   └── dhl.yaml         # DHL training configurations
-├── data/
-│   └── processed/       # Preprocessed datasets
-├── notebooks/
-│   └── analysis.ipynb   # Results analysis and visualization
-├── requirements.txt
-├── train_baseline.py
-├── train_raat.py
-├── train_dhl.py
-└── README.md
-```
 
 ## 🎯 Training
 
